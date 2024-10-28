@@ -1,4 +1,4 @@
-## AD 300 Building and Testing a Java Utility Class
+## AD 300 School Management System
 This Java project is for the "School Management System" assignment in my AD 300 class. It demonstrates how aggregation can model relationships between different entities in a school system.
 
 ### Instructions to run:
